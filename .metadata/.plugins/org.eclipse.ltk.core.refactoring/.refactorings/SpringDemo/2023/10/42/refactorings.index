@@ -1,0 +1,14 @@
+1697702196140	Delete element
+1697711615027	Rename type 'VendorCrudProjectApplication'
+1697711621202	Rename type 'VendorCrudProjectApplicationTests'
+1697711670648	Rename type 'CloudVendor'
+1697711840146	Rename type 'CloudAPIController'
+1697712046829	Rename type 'CloudVendorService'
+1697712155730	Rename type 'CloudVendorRepository'
+1697712308465	Delete element
+1697712315579	Delete element
+1697772181932	Rename compilation unit 'Books.java'
+1697772225185	Rename type 'BooksController'
+1697772325455	Rename type 'BooksRepository'
+1697772610260	Rename type 'BooksService'
+1697774302013	Delete element
